@@ -4,7 +4,7 @@ In this project, I wrote a simulation for a restaurant. The simulation has four 
 approach the restaurant and what they order, the number of tables in the restaurant (there can only be as many eaters as there are tables at a time; other eaters must wait for a free
 table before placing their order), and the number of cooks in the kitchen that process orders. Eaters in the restaurant place their orders when they get seated. These orders are then handled by available cooks. Each cook handles one order at a time. A cook handles an order by using machines to cook the food items.
 
-To simplify the simulation, I the following assumptions->
+To simplify the simulation, assumptions->
 There are only three types of food served by the restaurant - a Buckeye Burger,Brutus Fries, and Coke. 
 Each person entering the restaurant occupies one table and orders one or more burgers, zero or more orders of fries, and zero or one glass of coke. 
 The cook needs to use the burger machine for 5 minutes to prepare each burger, fries machine for 3 minutes for one order of fries, and the soda machine for 1 minute to fill a glass with coke. 
